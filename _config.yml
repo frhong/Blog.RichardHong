@@ -19,9 +19,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: TechFeng
-github_username: iFeng
-minimal_mistakes_skin: dirt
+twitter_username: frhong
+github_username: frhong
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -65,13 +65,13 @@ author:
   links:
     - label: "Home"
       icon: "fas fa-fw fa-link"
-      url: "https://ifeng.blog"
+      url: "https://blog.richardhong.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/TechFeng"
+      url: "https://twitter.com/frhong"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/iFeeng"
+      url: "https://github.com/frhong"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
@@ -80,10 +80,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/TechFeng"
+      url: "https://twitter.com/frhong"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/iFeeng"
+      url: "https://github.com/frhong"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
@@ -116,6 +116,6 @@ tag_archive:
   path: /tags/
 
 comments:
-  provider: "disqus"
+  provider:
   disqus:
-    shortname: "ifeng-blog"
+    shortname:
