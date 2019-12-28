@@ -1,12 +1,12 @@
 ---
-title: "Hello World"
+title: "Hello Again"
 date: 2019-12-22T10:34:30+08:00
 categories:
-  - Hello
+  - www
 tags:
-  - hello
+  - blog
 ---
 
-## Hello World
+Recently I have been reading about the independent net - the net we used to know before social media.
 
-Better late than never.
+So hello again. It is time to go independent again? 
